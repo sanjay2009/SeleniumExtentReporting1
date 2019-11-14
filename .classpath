@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/selenium-server-standalone-3.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Sanjay/Selenium_Training/ExtentReport/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Sanjay/Selenium_Training/ExtentReport/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/Sanjay/Selenium_Training/ExtentReport/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/Sanjay/Selenium_Training/ExtentReport/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Sanjay/Selenium_Training/ExtentReport/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Sanjay/Selenium_Training/ExtentReport/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Sanjay/Selenium_Training/ExtentReport/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
